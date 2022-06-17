@@ -49,8 +49,8 @@ disqus:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://aechrok.github.io
-enforce_ssl: https://aechrok.github.io
+url: http://leemartin.us
+enforce_ssl: https://leemartin.us
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
