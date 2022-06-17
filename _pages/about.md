@@ -4,29 +4,10 @@ title:
 permalink: /about/
 ---
 
-#### (scrollable)
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=2">
-        <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.943/pdf.min.js">
-        </script>
-        <style>
-            div {text-align: center;}
-            #canvas_container {
-                width: 800px;
-                height: 450px;
-                overflow: auto;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="canvas_container">
-            <canvas id="pdf_renderer"></canvas>
-        </div>
-    </body>
-</html>
+<!-- <div id="canvas_container" style="margin: auto; border: 3px solid green; padding: 10px; width: 70vh; height: 90vh;"> -->
+<div id="canvas_container" style="margin-left:auto; margin-right:auto;">
+    <canvas id="pdf_renderer"></canvas>
+</div>
 
 You can download my resume [here](https://github.com/Aechrok/Resume/raw/main/resume.pdf).
 
@@ -34,7 +15,7 @@ You can download my resume [here](https://github.com/Aechrok/Resume/raw/main/res
     var myState = {
             pdf: null,
             currentPage: 1,
-            zoom: 1.25
+            zoom: 1.5
         }
       
         pdfjsLib.getDocument('{{ site.baseurl }}/assets/resume.pdf').then((pdf) => {
