@@ -8,7 +8,7 @@ title: 'My Desk'
 
 | Item                        |                              |
 | :-------------------------- | :--------------------------- |
-| Model | 2021 MacBook Pro 14" M1 Pro Max |
+| Model | 2021 MacBook Pro 14" M1 Max |
 | Processor | 10-Core M1 Max Chipset |
 | Memory | 64GB |
 | Graphics Card | 24-Core M1 Max GPU |
@@ -27,8 +27,8 @@ title: 'My Desk'
 
 ## Laptops
 
-2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
-2019 MacBook Pro 15 inch (i9, 32GB, 1TB SSD, 2TB SSD)
+- 2020 MacBook Pro 13 inch (M1, 16GB, 1TB)
+- 2019 MacBook Pro 15 inch (i9, 32GB, 1TB SSD, 2TB SSD)
 
 ## Accessories
 

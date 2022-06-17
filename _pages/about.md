@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: 'Me'
 permalink: /about/
 ---
 
-<!-- <div id="canvas_container" style="margin: auto; border: 3px solid green; padding: 10px; width: 70vh; height: 90vh;"> -->
 <div id="canvas_container" style="margin-left:auto; margin-right:auto;">
     <canvas id="pdf_renderer"></canvas>
 </div>
