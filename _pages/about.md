@@ -8,7 +8,7 @@ permalink: /about/
     <canvas id="pdf_renderer"></canvas>
 </div>
 
-You can download my resume [here](https://github.com/Aechrok/Resume/raw/main/resume.pdf).
+You can download my resume [here](https://github.com/Aechrok/Resume/raw/main/LeesResume.pdf).
 
 <script>
     var myState = {
